@@ -1,4 +1,17 @@
+# proton-ge-custom-avpro
+
+This is a build with the [rtworkq thread pool leak patch](https://gitlab.winehq.org/wine/wine/-/merge_requests/3950) by @yshui applied.
+
+All the praise goes to them.
+
+If you run VR on Linux, consider joining us on either:
+- Discord: https://discord.gg/gHwJ2vwSWV
+- Matrix Space: `#linux-vr-adventures:matrix.org`
+
+Original README.md below.
+
 # proton-ge-custom
+
 
 ## (1) RUNNING NON-STEAM GAMES WITH PROTON OUTSIDE OF STEAM IS NOT SUPPORTED. DO NOT ASK FOR HELP WITH THIS:
 

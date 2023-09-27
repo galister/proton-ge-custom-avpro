@@ -325,6 +325,9 @@
 
 ### (2-5) WINE PENDING UPSTREAM SECTION ###
 
+    echo "WINE: -PENDING- rtworkq-memory-leak-fix"
+    patch -Np1 < ../patches/wine-hotfixes/pending/rtworkq-memory-leak-fix.patch
+
     # https://github.com/Frogging-Family/wine-tkg-git/commit/ca0daac62037be72ae5dd7bf87c705c989eba2cb
     echo "WINE: -PENDING- unity crash hotfix"
     patch -Np1 < ../patches/wine-hotfixes/pending/unity_crash_hotfix.patch
