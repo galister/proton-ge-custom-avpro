@@ -232,7 +232,8 @@ GST_GOOD_MESON_ARGS := \
 	-Dflac=enabled \
 	-Djpeg=enabled \
 	-Dspeex=enabled \
-	-Dorc=enabled
+	-Dorc=enabled \
+	-Drtsp=enabled
 
 GST_GOOD_DEPENDS = gst_orc gstreamer gst_base
 

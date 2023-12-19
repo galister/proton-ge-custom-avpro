@@ -1,0 +1,19 @@
+diff --git a/dlls/winegstreamer/winegstreamer.rgs b/dlls/winegstreamer/winegstreamer.rgs
+index c50d3a05747..0651bff3a9a 100644
+--- a/dlls/winegstreamer/winegstreamer.rgs
++++ b/dlls/winegstreamer/winegstreamer.rgs
+@@ -35,6 +35,14 @@ HKLM
+                     {
+                         val '{587eeb6a-7336-4ebd-a4f2-91c948de622c}' = s 'GStreamer Scheme Handler'
+                     }
++                    'rtspu:'
++                    {
++                        val '{587eeb6a-7336-4ebd-a4f2-91c948de622c}' = s 'GStreamer Scheme Handler'
++                    }
++                    'rtspt:'
++                    {
++                        val '{587eeb6a-7336-4ebd-a4f2-91c948de622c}' = s 'GStreamer Scheme Handler'
++                    }
+                 }
+             }
+         }
